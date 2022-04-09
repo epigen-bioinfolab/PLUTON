@@ -1,6 +1,7 @@
-# Nipt Analysis
+# PLUTON (cross-PLatform aUtomated TOol for Nipt)
+### An integrative and flexible framework for NIPT Analysis
 
-Here Will Be Description
+PLUTON is an integrative and flexible framework including several methods for quality control analysis, align-reads pre-processing, chromosomal aneuploidies prediction and accurate gender prediction.
 
 ## Dependencies
 
@@ -14,7 +15,7 @@ Multiple dependencies are needed to do the analysis properly. We have listed the
 - R Bioconductor (v3.5) packages
     - DNAcopy (v1.50.1)
 - Python (v3.6) libraries
-	- scipy (v1.1.0)
+    - scipy (v1.1.0)
     - scikit-learn (v0.20.0)
     - pysam (v0.15.1)
     - numpy (v1.15.2)
@@ -60,13 +61,13 @@ sudo python3 setup.py install
 *Note: We have provided the tool with the package*
 
 ---
-### Sorting the Generated SAM Files
+### Sorting, Converting and Indexing SAM Files
 
 **You will need the SAMtools  for this step.**
 - Go to the "PLUTON/tools" folder. 
 - You will find the compressed **"samtools-1.14.zip"** there. Extract the zip file.
 ```
-#installing samtools dependencies
+#installing SAMtools dependencies
 sudo dnf install make
 sudo dnf install gcc
 sudo dnf install autoheader
@@ -172,7 +173,7 @@ ref_index_path=/home/enumbin/Desktop/friends/nibir/PLUTON/data/bowtie2_reference
 ---
 
 [4] Removing Duplicates Phase : 
-- bowtie_path : Go to the "PLUTON/tools/picard-2.26.10/picard/build/libs" and get the path. The path will be in  **"[PATH_TO_THE_FOLDER]/PLUTON/tools/picard-2.26.10/picard/build/libs"**
+- picard_path: Go to the "PLUTON/tools/picard-2.26.10/picard/build/libs" and get the path. The path will be in  **"[PATH_TO_THE_FOLDER]/PLUTON/tools/picard-2.26.10/picard/build/libs"**
 
 Example:
 ```bash
