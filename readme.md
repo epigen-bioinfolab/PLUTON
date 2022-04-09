@@ -1,5 +1,5 @@
 # PLUTON (cross-PLatform aUtomated TOol for Nipt)
-### An integrative and flexible framework for NIPT Analysis
+### An integrative, user-friendly and flexible framework for NIPT Analysis
 
 PLUTON is an integrative and flexible framework including several methods for quality control analysis, align-reads pre-processing, chromosomal aneuploidies prediction and accurate gender prediction.
 
