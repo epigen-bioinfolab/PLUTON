@@ -86,10 +86,8 @@ make install
 
 **You will need the picard and java for this step.**
 - If you dont have java already, you can install java following this link [How to install Java](https://www.digitalocean.com/community/tutorials/how-to-install-java-with-apt-on-ubuntu-18-04) 
-- Go to the "PLUTON/tools" folder. 
-- You will find the compressed **"picard-2.26.10.zip"** there. Extract the zip file.
-
-*Note: We have provided the **"picard-2.26.10.zip"** tool with the package*
+- Download the picard(v2.26.10) from [here](https://github.com/broadinstitute/picard/releases/tag/2.26.10)
+- Go to the "PLUTON/tools" folder and put the downloaded file here and extract it.
 
 ---
 
