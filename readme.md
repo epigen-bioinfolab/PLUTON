@@ -201,3 +201,14 @@ sys	0m0.000s
 
 ## Conclusion
 PLUTON is a fully automated pipeline for data analysis including quality control, alignment, pre-processing of aligned reads and finally prediction of gender and chromosomal copy number alterations. Sequenced data can be utilized in PLUTON, no prior alignment and sample pre-processing are needed here, which makes out tool more unique and user-friendly. The automated tool “PLUTON” is freely available, **under the GNU LGPL v3 license for non-commercial use**, at (https://github.com/epigen-bioinfolab/PLUTON).
+
+This is a pre-release version (v1.0.0-alpha). 
+
+## Contact
+PLUTON is developed by Md. Shafiqul Islam and Md. Rabi Us Sany, under the supervision of Professor Dr. ABMM Khademul Islam.
+
+For any query, please contact us at:  
+Md. Shafiqul Islam (shafiq.gebdu@gmail.com)
+Md. Rabi Us Sany (rabiussany02@gmail.com)
+
+Visit our labpage at https://www.epigen-bioinfolab.com/
