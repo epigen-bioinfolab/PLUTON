@@ -1,7 +1,7 @@
 # PLUTON (cross-PLatform aUtomated TOol for Nipt)
 ### An integrative, user-friendly and flexible framework for NIPT Analysis
 
-PLUTON is an integrative and flexible framework including several methods for quality control analysis, align-reads pre-processing, chromosomal aneuploidies prediction and accurate gender prediction.
+PLUTON is an integrative and flexible framework including several methods for quality control analysis, align-reads pre-processing, chromosomal aneuploidies prediction and accurate gender prediction. This automated pipeline is an open-source shell package including several selected and benchmarked tools such as MultiQC, FastQC, SAMtools, Picard, Bowtie 2 and WisecondorX which will allow execution of pre-processing of aligned reads and prediction of fetal gender and chromosomal aneuploidies (if any) with simple initial commands. We provide optimized reference data, sample data and also user-guidelines to execute this novel method in the Linux environment. This open-source pipeline may contribute to wider acceptability and implementation of NIPT in clinical context to end-users. It may also reduce the complexity of handling laboratory processing next-generation sequencing data, time-consumption to perform NIPT and the demand of risky invasive procedures of prenatal testing. 
 
 ## Dependencies
 
@@ -200,4 +200,4 @@ sys	0m0.000s
 ```
 
 ## Conclusion
-Here will be conclusion
+PLUTON is a fully automated pipeline for data analysis including quality control, alignment, pre-processing of aligned reads and finally prediction of gender and chromosomal copy number alterations. Sequenced data can be utilized in PLUTON, no prior alignment and sample pre-processing are needed here, which makes out tool more unique and user-friendly. The automated tool “PLUTON” is freely available, **under the GNU LGPL v3 license for non-commercial use**, at (https://github.com/epigen-bioinfolab/PLUTON).
