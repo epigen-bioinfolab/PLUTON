@@ -205,7 +205,7 @@ PLUTON is a fully automated pipeline for data analysis including quality control
 **This is a pre-release version (v1.0.0-alpha)**. 
 
 ## Contact
-PLUTON (1st version) is developed by Md. Shafiqul Islam, Md. Rabi Us Sany; (2nd version:) Anik Mojumder under the supervision of Professor Dr. ABMM Khademul Islam.
+PLUTON (Alpha version).
 
 For any query, please contact us at: epigen.bioinfolab@gmail.com
 
