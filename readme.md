@@ -1,5 +1,5 @@
 <div style="display: flex; align-items: center;">
-  <img src="PLUTON/PlutonLogo.PNG" alt="PLUTON Logo" width="120" style="margin-left: 40px;" />
+  <img src="PlutonLogo.PNG" alt="PLUTON Logo" width="120" style="margin-left: 40px;" />
  </div>
 
 # PLUTON (cross-PLatform aUtomated TOol for Nipt)
